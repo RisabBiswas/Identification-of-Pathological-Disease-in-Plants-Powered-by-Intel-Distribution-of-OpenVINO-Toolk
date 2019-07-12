@@ -24,13 +24,13 @@ This methodology finds it's application in Agriculture, Horticulture, Floricultu
 
 ## Technologies Used :
 
-### Hardware Stack :-
+### Hardware Stack :
 
 **1.** Intel AI DevKit.
 **2.** Intel RealSense Camera.
 **3.** Intel AI DevCloud.
 
-### Software Stack :-
+### Software Stack :
 
 **1.** Intel Optimised Python.
 **2.** Intel Optimised TensorFlow
