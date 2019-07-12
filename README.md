@@ -7,7 +7,7 @@ In modern Agriculture and Forestry purposes Plant Pathological Research is very 
 2. Citrus Canker (Happens in Citrus Plants, Family: Rutaceae)
 3. Early Blight (Happens in Tomato, Potato and Egg Plant, Family: Solanaceae)
 4. Late Blight (Happens in Tomato, Potato and Egg Plant, Family: Solanaceae)
-5. Powdery Mildew ( Happens in Wheat, Barley and other Cereals, Legumes, Grape, Gourds and melons, infection happens more in cucurbitaceae family)
+5. Powdery Mildew (Happens in Wheat, Barley and other Cereals, Legumes, Grape, Gourds and melons, infection happens more in cucurbitaceae family)
 
 This methodology finds it's application in Agriculture, Horticulture, Floriculture, Forestry and every aspect of crop improvement.
 
