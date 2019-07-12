@@ -1,0 +1,1 @@
+# Identification-of-Pathological-Disease-using-Intel-Distribution-of-OpenVINO-toolkit
