@@ -1,7 +1,13 @@
 # Overview
 In modern Agriculture and Forestry purposes Plant Pathological Research is very much essential for the crop improvement. In every year, huge crop is damaged by pathogen attack. In most of the cases, Farmers and lay men suffers huge loss due to severe pathogenic infestation. For crop improvement, the first and foremost essential key point is diseases identification. After proper identification of diseases we will be able to treat the diseases. Most of the cases lab oriented research is time taking and very much expendable but instant identification of plant diseases with its causal organism by using modern technology is most suitable and cost effective and also authentic. This type identifying methodology will help us to identify the diseases with its proper control measures. Above 95 % accuracy and authentic identification is possible by using this methodology.
 
-In my present research, I have taken two of the most economically important and valuable species such as Tea(Camellia Sinensis) and various species of Citrus as experimental basis. I have done the Canker and Blister Blight Diseases of the above mentioned plant species. And it shows almost 99% accurate identification of the disease in all the infected plants. It is very easy and simple technique which any farmer or lay men can use this methodology to Identify the symptoms and signs of the diseases. By using this methodology we can easily identify the various types of diseases which mostly occurs in Leaf, Stem, Root , Fruits and Tubers.
+## Identified Diseases are :
+
+1. Blister Blight of Tea (Family: Theaceae)
+2. Citrus Canker (Happens in Citrus Plants, Family: Rutaceae)
+3. Early Blight (Happens in Tomato, Potato and Egg Plant, Family: Solanaceae)
+4. Late Blight (Happens in Tomato, Potato and Egg Plant, Family: Solanaceae)
+5. Powdery Mildew ( Happens in Wheat, Barley and other Cereals, Legumes, Grape, Gourds and melons, infection happens more in cucurbitaceae family)
 
 The plant species which we have taken for the demo of our ongoing research i.e. Tea and Citrus plants such as (Oranges) are economically very much valuable in the market and are always high in demand but cultivators or farmers are always facing a severe problems and huge monetary loss due to pathogenic attack. This also creates scarcity in the market which leads to the high prices of the Fruits and Tea.
 
